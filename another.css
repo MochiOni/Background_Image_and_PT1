@@ -1,0 +1,20 @@
+body{
+        background-image: url("UN22.jpg");
+        text-align: center;
+        color: gray;
+        padding: 0;
+        margin: 0;
+}
+div{
+        background-color: gray;
+        color: black;
+        border: 5px solid black;
+        font-size: 30px;
+        margin: 5px;
+        padding: 5px;
+        font-family: 'arial';
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+}
